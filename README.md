@@ -1,1 +1,1 @@
-# minecraft-bedrock-server
+# minecraft-java-server
